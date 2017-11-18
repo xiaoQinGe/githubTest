@@ -2,5 +2,3 @@ GitHub : helloword
 conflictTest3
 
 bug branch
-
-
